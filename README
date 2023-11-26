@@ -1,0 +1,12 @@
+# Aplicación de Gestión de Empleados
+
+Este es un simple programa de consola en C # que gestiona la información de empleados y gerentes.
+
+## Requisitos
+
+- Visual Studio (o cualquier otro entorno de desarrollo compatible con C#)
+- Microsft SQL server (gestor de base de datos)
+
+## Instrucciones de Ejecución
+
+1. Clona este repositorio:

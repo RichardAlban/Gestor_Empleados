@@ -1,0 +1,809 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Tarea6.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Tarea6.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\css1\\animate.css",
+      "PackagePath": "staticwebassets\\css1\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\css1\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css1\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\css1\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css1\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\css1\\bootstrapTheme.css",
+      "PackagePath": "staticwebassets\\css1\\bootstrapTheme.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\css1\\general.css",
+      "PackagePath": "staticwebassets\\css1\\general.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\css1\\style.css",
+      "PackagePath": "staticwebassets\\css1\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\less\\spinning.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\spinning.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\scss\\_spinning.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_spinning.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\flat-ui-icons-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\flat-ui-icons-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\flat-ui-icons-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\flat-ui-icons-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\flat-ui-icons-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flat-ui-icons-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\flat-ui-icons-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\flat-ui-icons-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\lato\\lato-black.eot",
+      "PackagePath": "staticwebassets\\fonts\\lato\\lato-black.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\lato\\lato-black.svg",
+      "PackagePath": "staticwebassets\\fonts\\lato\\lato-black.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\lato\\lato-black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lato\\lato-black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\lato\\lato-black.woff",
+      "PackagePath": "staticwebassets\\fonts\\lato\\lato-black.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\lato\\lato-bold.eot",
+      "PackagePath": "staticwebassets\\fonts\\lato\\lato-bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\lato\\lato-bold.svg",
+      "PackagePath": "staticwebassets\\fonts\\lato\\lato-bold.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\lato\\lato-bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lato\\lato-bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\lato\\lato-bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\lato\\lato-bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\lato\\lato-bolditalic.eot",
+      "PackagePath": "staticwebassets\\fonts\\lato\\lato-bolditalic.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\lato\\lato-bolditalic.svg",
+      "PackagePath": "staticwebassets\\fonts\\lato\\lato-bolditalic.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\lato\\lato-bolditalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lato\\lato-bolditalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\lato\\lato-bolditalic.woff",
+      "PackagePath": "staticwebassets\\fonts\\lato\\lato-bolditalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\lato\\lato-italic.eot",
+      "PackagePath": "staticwebassets\\fonts\\lato\\lato-italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\lato\\lato-italic.svg",
+      "PackagePath": "staticwebassets\\fonts\\lato\\lato-italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\lato\\lato-italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lato\\lato-italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\lato\\lato-italic.woff",
+      "PackagePath": "staticwebassets\\fonts\\lato\\lato-italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\lato\\lato-light.eot",
+      "PackagePath": "staticwebassets\\fonts\\lato\\lato-light.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\lato\\lato-light.svg",
+      "PackagePath": "staticwebassets\\fonts\\lato\\lato-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\lato\\lato-light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lato\\lato-light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\lato\\lato-light.woff",
+      "PackagePath": "staticwebassets\\fonts\\lato\\lato-light.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\lato\\lato-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\lato\\lato-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\lato\\lato-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\lato\\lato-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\lato\\lato-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lato\\lato-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\fonts\\lato\\lato-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\lato\\lato-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\circle.png",
+      "PackagePath": "staticwebassets\\img\\circle.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\cross.png",
+      "PackagePath": "staticwebassets\\img\\cross.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\doge.png",
+      "PackagePath": "staticwebassets\\img\\doge.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\airplane.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\airplane.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\bank.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\bank.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\beacon.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\beacon.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\beats.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\beats.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\bell.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\bell.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\bicycle.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\bicycle.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\book.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\book.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\box.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\box.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\browser.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\browser.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\bulb.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\bulb.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\calendar.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\calendar.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\casino.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\casino.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\chair.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\chair.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\chat.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\chat.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\circle.png",
+      "PackagePath": "staticwebassets\\img\\icon\\circle.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\circledown.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\circledown.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\clipboard.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\clipboard.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\clocks.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\clocks.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\compas.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\compas.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\config.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\config.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\cup.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\cup.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\folder.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\folder.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\football.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\football.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\gift-box.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\gift-box.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\headphones.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\headphones.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\heart.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\heart.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\laptop.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\laptop.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\letter.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\letter.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\like.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\like.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\loop.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\loop.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\mail.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\mail.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\map.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\map.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\medal.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\medal.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\mic.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\mic.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\milk.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\milk.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\paper-bag.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\paper-bag.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\pencil.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\pencil.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\pencils.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\pencils.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\picture.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\picture.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\polaroid.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\polaroid.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\printer.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\printer.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\retina.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\retina.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\search.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\search.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\shopping bag.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\shopping bag.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\speed.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\speed.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\stopwatch.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\stopwatch.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\tactics.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\tactics.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\toilet-paper.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\toilet-paper.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\tweet.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\tweet.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\icon\\watch.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\watch.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\intro\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\intro\\banner-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\intro\\intro-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\intro\\intro-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\intro\\intro4.jpg",
+      "PackagePath": "staticwebassets\\img\\intro\\intro4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\intro\\intro5.jpg",
+      "PackagePath": "staticwebassets\\img\\intro\\intro5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\ipad.png",
+      "PackagePath": "staticwebassets\\img\\ipad.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\iphone.png",
+      "PackagePath": "staticwebassets\\img\\iphone.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\phones.png",
+      "PackagePath": "staticwebassets\\img\\phones.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\prova1.jpg",
+      "PackagePath": "staticwebassets\\img\\prova1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\slide\\1.png",
+      "PackagePath": "staticwebassets\\img\\slide\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\slide\\2.png",
+      "PackagePath": "staticwebassets\\img\\slide\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\slide\\3.png",
+      "PackagePath": "staticwebassets\\img\\slide\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\img\\status.gif",
+      "PackagePath": "staticwebassets\\img\\status.gif"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Documents\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\Tarea6\\Tarea6\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Tarea6.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Tarea6.props",
+      "PackagePath": "build\\Tarea6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Tarea6.props",
+      "PackagePath": "buildMultiTargeting\\Tarea6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Tarea6.props",
+      "PackagePath": "buildTransitive\\Tarea6.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

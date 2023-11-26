@@ -1,0 +1,51 @@
+﻿@page
+@model Tarea6.Pages.Employees.AddModel
+@{
+	var message = ViewData["Message"]?.ToString();
+
+}
+
+<form method="post">
+	<h1 class="mb-3">Añadir Nuevo Empleado</h1>
+
+	@if (!string.IsNullOrWhiteSpace(message))
+	{
+		<div class="alert alert-success" role="alert">
+			@message
+		</div>
+	}
+
+	<div class="mb-3">
+		<label>Nombre del Empleado</label>
+		<input type="text" class="form-control" asp-for="AddEmployeeRequest.Name"/>
+	</div>
+
+	<div class="mb-3">
+		<label>Email</label>
+		<input type="email" class="form-control" asp-for="AddEmployeeRequest.Email"/>
+	</div>
+
+	<div class="mb-3">
+		<label>Salario</label>
+		<input type="number" class="form-control" asp-for="AddEmployeeRequest.Salary"/>
+	</div>
+
+	<div class="mb-3">
+		<label>Fecha de Nacimiento</label>
+		<input type="date" class="form-control" asp-for="AddEmployeeRequest.DateOfBirth"/>
+	</div>
+
+	<div class="mb-3">
+		<label>Departamento</label>
+		<input type="text" class="form-control" asp-for="AddEmployeeRequest.Departament"/>
+	</div>
+
+	<div class="mb-3 d-flex justify-content-between"">
+		<button type="submit" class="btn btn-primary">Guardar</button>
+		<a href="/Employees/List" class="btn btn-success">Regresar</a>
+
+	</div>
+
+</form>
+
+

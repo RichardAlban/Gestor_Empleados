@@ -16,7 +16,7 @@ Este es un simple programa de consola en C # que gestiona la información de emp
 
 2. Abre el proyecto en Visual Studio.
    
-3. Ejecuta
+3. Ejecuta.
 
 >Sql server.
 

@@ -10,7 +10,8 @@ Este es un simple programa de consola en C # que gestiona la información de emp
 ## Instrucciones de Ejecución
 >Visual Studio
 
-1. Clona este repositorio en una Carpeta:
+1. Clona este repositorio en una Carpeta
+   
 `<link>` : https://github.com/RichardAlban/Gestor_Empleados.git
 2. Abre el proyecto en Visual Studio
 3. Ejecuta
